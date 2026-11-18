@@ -19,7 +19,7 @@
   </a>
 </p>
 
-! [demo] (https://raw.githubusercontent.com/bhimmajhi/bhimmajhi/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/bhimmajhi/bhimmajhi/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
